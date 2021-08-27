@@ -4,5 +4,6 @@
         "utility": "cpp",
         "queue": "cpp",
         "random": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
